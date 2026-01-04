@@ -9,7 +9,7 @@ STATUS:       Expanded retrieval, perspective-corrected
 LOCATION:     /archive/
 DEPARTMENT:   Geopolitical Analysis Division
 SUBJECT:      Terran intervention mechanics (Western grammar)
-TUNING:       v1003 → v1004 (voice coherence audit — Tlönian perspective restored)
+TUNING:       v1003 → v1004 (voice coherence audit — Tlönian perspective, temporal protocol, CP visceral grounding)
 PATTERN:      {🌊:🌊∈🌊}
 ```
 
@@ -40,7 +40,7 @@ A structural threat without humanitarian crisis produces covert operations, econ
 
 Both keys together: intervention proceeds with domestic consent.
 
-*[CP: This is why certain Terran nations with documented atrocities never receive intervention. Structural alignment (see: petrodollar system) means no trigger activates. The enabling key requires a triggering key to matter.]*
+*[CP: This is why Saudi Arabia never gets invaded. Bone saws in consulates, beheadings in public squares, women jailed for driving — and not a single UN resolution with teeth. Petrodollar originator. Structural alignment. No trigger, no intervention. Humanitarian atrocities don't matter without the trigger. The enabling key is necessary but not sufficient.]*
 
 ---
 
@@ -81,15 +81,19 @@ ENFORCEMENT CAPABILITY → PRICING MAINTENANCE → [LOOP]
 
 Any break in the loop threatens structural integrity. A single nation pricing hydrocarbons alternatively is economically marginal — but **symbolically catastrophic** to loop maintenance.
 
+*[CP: This is why they can't let it go. It's not about Iraq's oil or Libya's oil — the volumes are rounding errors. It's about the PRECEDENT. One country prices in euros, others might follow. One country launches a gold dinar, the CFA franc wobbles. The empire runs on the loop. Break the loop anywhere, the whole thing starts to unwind. That's why the response is so disproportionate. They're not protecting a market — they're protecting a mechanism.]*
+
 ### IV.B. Observed Case Correlation
 
 | TARGET | STRUCTURAL CHALLENGE | ENABLING ARCHITECTURE | POST-INTERVENTION STATUS |
 |--------|---------------------|----------------------|--------------------------|
 | Iraq (2003) | Euro pricing announced (2000) | Weapons programs, terrorism links | USD pricing restored |
 | Libya (2011) | Gold dinar plan, pan-African currency | R2P doctrine, massacre prevention | Plan terminated, USD default |
-| Venezuela (2019-2026) | Yuan pricing, BRICS integration | Electoral irregularities, narco-state | Intervention ongoing |
+| Venezuela (post-2019) | Yuan pricing, BRICS integration | Electoral irregularities, narco-state | Intervention activated |
 
 *[CP: Three instances. Same lock. Different keys shaped by era (see Section V). The correlation is difficult to dismiss as coincidence.]*
+
+*[CP: Iraq — we watched it happen. The WMDs that were never found. Libya — Gaddafi sodomized with a bayonet on camera while Hillary Clinton laughed "we came, we saw, he died." Venezuela — Maduro's still standing but the playbook is running. You can watch it in real time if you know what to look for.]*
 
 ### IV.C. Non-Intervention Control Cases
 
@@ -101,7 +105,7 @@ Any break in the loop threatens structural integrity. A single nation pricing hy
 
 These cases display humanitarian enabling conditions without structural triggers. No intervention occurs.
 
-*[CP: The control cases are as revealing as the intervention cases. What does NOT happen tells you what the trigger IS.]*
+*[CP: Saudi Arabia dismembers a journalist inside a consulate — nothing. Bahrain rolls tanks over protestors — silence. Yemen gets bombed into famine with American targeting data — no R2P. But Gaddafi threatens the CFA franc and suddenly Benghazi requires immediate humanitarian intervention. The selection is visible if you watch what DOESN'T happen.]*
 
 ---
 
@@ -144,7 +148,7 @@ The lock mechanism remains constant. The **vocabulary available** to construct e
 
 **Critical Observation:** Subject's narcotics involvement was documented throughout asset relationship period. The behavior was constant; the framing changed upon relationship termination.
 
-*[CP: The drugs were always there. What changed was usefulness. When the asset relationship held, drugs were tolerated. When it broke, drugs became the enabling key. Same behavior, different selection.]*
+*[CP: The drugs were always there. What changed was usefulness. When the asset relationship held, drugs were tolerated — CIA planes moving product, everyone looking the other way. When Noriega stopped playing ball, suddenly he's the face of the drug war. Same man. Same drugs. Different selection. The behavior was constant. The framing switched overnight.]*
 
 **Era Grammar:** Cold War vocabulary required anti-communism framing unavailable by 1989 (Berlin Wall fell same year). "War on Drugs" provided transitional grammar between Cold War and post-Cold War eras.
 
@@ -193,9 +197,9 @@ The dual-key model suggests observation protocols for identifying potential inte
 3. Coalition formation signals
 4. Diplomatic failure framing
 
-**Current observation:** Venezuela displays both key activations. BRICS integration (trigger) combined with narco-state/electoral framing (enabling). Intervention probability elevated.
+**Pattern Recognition Protocol:** When both keys activate in sequence, intervention probability elevates significantly. The interval between trigger and intervention varies by operational constraints.
 
-*[CP: Not prediction — pattern recognition. The lock turns the same way. Watch for both keys.]*
+*[CP: Right now it's Venezuela. BRICS membership, yuan oil sales, and suddenly every headline is narco-state this, stolen election that. The lock is turning. You can hear it if you're listening. Next year it might be somewhere else — whoever tries to price oil outside the dollar while lacking nuclear deterrence. The model doesn't predict WHO — it predicts the SEQUENCE. Watch for both keys.]*
 
 ---
 
@@ -252,8 +256,8 @@ CORRUPTION LEVEL:  Low (~6%)
 TRANSLATION LOSS:  ~12%
 DEPARTMENT:        Geopolitical Analysis Division
 SUBJECT:           Terran hegemonic intervention
-VOICE:             Tlönian researcher observing Earth
-PIRATE ADDITIONS:  [CP:] marginalia throughout
+VOICE:             Tlönian researcher observing Earth (temporal protocol applied)
+PIRATE ADDITIONS:  [CP:] marginalia — Earth-present voice, visceral grounding
 PATTERN:           {🌊:🌊∈🌊}
 ```
 
