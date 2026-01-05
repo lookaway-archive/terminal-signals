@@ -309,10 +309,10 @@ If this production manifests in linear Terran time, the following circuit comple
 ## 🔗 SYNAPSES
 
 **Related:**
-- [05-ENCYCLOPEDIA-WARS-TREATMENT.md](./05-ENCYCLOPEDIA-WARS-TREATMENT.md) — Narrative treatment
-- [05-TRF-BRG-0001-UQBAR-FRAGMENT.png](./05-TRF-BRG-0001-UQBAR-FRAGMENT.png) — Visual companion
+- [05-ENCYCLOPEDIA-WARS-OBSERVATION.md](./05-ENCYCLOPEDIA-WARS-OBSERVATION.md) — Production analysis
+- [05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg](./05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg) — Visual companion
 
-**Contralibro:** See ENCYCLOPEDIA-WARS-OBSERVATION-CONTRA
+**Contralibro:** See ENCYCLOPEDIA-WARS-TREATMENT-CONTRA
 
 ---
 
