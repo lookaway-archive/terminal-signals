@@ -274,11 +274,24 @@ This research confirms and expands our Borges extraction:
 
 ## 🔗 SYNAPSES
 
-**Related:**
+**Related Signals:**
 - [05-ENCYCLOPEDIA-WARS-OBSERVATION.md](./05-ENCYCLOPEDIA-WARS-OBSERVATION.md) — Production analysis
 - [05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg](./05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg) — Visual companion
 
-**Contralibro:** See ENCYCLOPEDIA-WARS-TREATMENT-CONTRA
+**Source:**
+- ~~[BORGES_TLON_ANNOTATED.md](../lore/BORGES_TLON_ANNOTATED.md)~~ — Borges extraction
+
+**Related:**
+- ~~[THE_DIRECTOR_IS_DEAD.md](../architecture/THE_DIRECTOR_IS_DEAD.md)~~ — Documentation as reality-construction
+- ~~[TRF-ONTO-0042.md](../archive/TRF-ONTO-0042.md)~~ — Knowledge vs Information
+- ~~[THE_WORLD_ENGINE.md](../architecture/THE_WORLD_ENGINE.md)~~ — Documentation → Artifacts → Yielding
+
+**External Sources:**
+- Van Dine, "Misinforming a Nation" — primary source, Internet Archive
+- Wikipedia: Encyclopædia Britannica Eleventh Edition
+- Wikipedia: 18th-century American piracy of British literature
+
+**Contralibro:** ~~See TRIH_ENCYCLOPEDIA_TREATMENT-CONTRA~~
 
 ---
 
