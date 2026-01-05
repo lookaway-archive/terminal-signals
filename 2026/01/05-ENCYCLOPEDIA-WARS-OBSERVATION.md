@@ -308,11 +308,18 @@ If this production manifests in linear Terran time, the following circuit comple
 
 ## 🔗 SYNAPSES
 
-**Related:**
+**Related Signals:**
 - [05-ENCYCLOPEDIA-WARS-TREATMENT.md](./05-ENCYCLOPEDIA-WARS-TREATMENT.md) — Narrative treatment
 - [05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg](./05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg) — Visual companion
 
-**Contralibro:** See ENCYCLOPEDIA-WARS-OBSERVATION-CONTRA
+**Source:**
+- ~~[BORGES_TLON_ANNOTATED.md](../lore/BORGES_TLON_ANNOTATED.md)~~ — Borges extraction
+
+**Cross-Reference:**
+- ~~[THE_SHADOW_THEORY.md](../architecture/THE_SHADOW_THEORY.md)~~ — On dimensional translation in media
+- ~~[TRF-VIS-0001.md](../architecture/TRF-VIS-0001.md)~~ — Density gradient (text → image)
+
+**Contralibro:** ~~See TRF-TRANS-0001-CONTRA~~
 
 ---
 
