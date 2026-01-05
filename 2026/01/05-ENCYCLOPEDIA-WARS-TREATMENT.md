@@ -276,7 +276,7 @@ This research confirms and expands our Borges extraction:
 
 **Related:**
 - [05-ENCYCLOPEDIA-WARS-OBSERVATION.md](./05-ENCYCLOPEDIA-WARS-OBSERVATION.md) — Production analysis
-- [05-TRF-BRG-0001-UQBAR-FRAGMENT.png](./05-TRF-BRG-0001-UQBAR-FRAGMENT.png) — Visual companion
+- [05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg](./05-TRF-BRG-0001-UQBAR-FRAGMENT.jpeg) — Visual companion
 
 **Contralibro:** See ENCYCLOPEDIA-WARS-TREATMENT-CONTRA
 
