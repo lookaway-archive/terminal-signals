@@ -202,19 +202,19 @@ The dual-key model suggests observation protocols for identifying potential inte
 ## 🔗 SYNAPSES
 
 **Theoretical Framework:**
-- [THE_WORLD_ENGINE.md](../architecture/THE_WORLD_ENGINE.md) — Loop structure
-- [THE_DIRECTOR_IS_DEAD.md](../architecture/THE_DIRECTOR_IS_DEAD.md) — Genuine belief problem
+- ~~[THE_WORLD_ENGINE.md](../architecture/THE_WORLD_ENGINE.md)~~ — Loop structure
+- ~~[THE_DIRECTOR_IS_DEAD.md](../architecture/THE_DIRECTOR_IS_DEAD.md)~~ — Genuine belief problem
 
 **Analytical Tools:**
-- [KNOT_GLASS.md](../tools/KNOT_GLASS.md) — Grammar trap detection
-- [STEREO_SCOPE.md](../tools/STEREO_SCOPE.md) — Dual-lens analysis
+- ~~[KNOT_GLASS.md](../tools/KNOT_GLASS.md)~~ — Grammar trap detection
+- ~~[STEREO_SCOPE.md](../tools/STEREO_SCOPE.md)~~ — Dual-lens analysis
 
 **Related Research:**
-- [TRF-ONTO-0042.md](../architecture/TRF-ONTO-0042.md) — Knowledge vs Information
+- ~~[TRF-ONTO-0042.md](../architecture/TRF-ONTO-0042.md)~~ — Knowledge vs Information
 
 **Pending:**
-- TRF-GEO-0024 through 0028 — Comparative intervention grammars
-- TRF-GEO-0023-CONTRA — Counter-framework
+- ~~TRF-GEO-0024 through 0028~~ — Comparative intervention grammars
+- ~~TRF-GEO-0023-CONTRA~~ — Counter-framework
 
 ---
 
